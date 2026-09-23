@@ -14,4 +14,4 @@ Open Chat allows users to join rooms, send instant messages, and experience live
 - **Frontend:** React + Zustand + Tailwind CSS
 - **Backend:** Node.js + Express
 - **Real-time:** Socket.IO (WebSockets)
-- **Database:** MongoDB
+- **Database:** MongoDB.
